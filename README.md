@@ -2,7 +2,8 @@
 - 👋 Hi, I’m @Yocode5<br>
 - 👀 I’m interested in Web Development, Computer Software Engineering and Game Development<br>
 - 🌱 I’m currently learning Software Engineering and Computer Science from NSBM Green University <br>
-- 💞️ I’m looking to collaborate on Web Development and Software Related Projects<br>- 📫 How to reach me: Hit me up at yomithsilva@gmail.com let's make something awesome happen!<br>
+- 💞️ I’m looking to collaborate on Web Development and Software Related Projects<br>
+- 📫 How to reach me: Hit me up at yomithsilva@gmail.com let's make something awesome happen!<br>
 - 😄 Pronouns: He/Him<br>
 - ⚡ Fun fact: I take my music playlist and Cricket as seriously as my coding project. 🎶👨‍💻
 
